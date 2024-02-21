@@ -1,6 +1,6 @@
 # Browser Extension Privacy Policy
 
-Last Updated: February 21, 2024
+Last Updated: **February 21, 2024**
 
 This Privacy Policy describes how we collect, use, and share user data. By using the browser extension, you agree to the terms of this Privacy Policy.
 

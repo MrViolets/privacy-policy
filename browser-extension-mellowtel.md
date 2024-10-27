@@ -6,11 +6,11 @@ This Privacy Policy describes how we collect, use, and share user data. By using
 
 ## 1. Data Collection
 
-Our extension does not collect, share, or sell any personal information, even in anonymized form. The Mellowtel library included in this extension only shares unused internet bandwidth if you choose to opt in. No personal data, browsing history, or identifying information is collected.
+Our extension does not collect, share, or sell any personal information, even in anonymized form. No personal data, browsing history, or identifying information is collected.
 
 ## 2. How We Use Data
 
-The Mellowtel library uses only your unused internet bandwidth. This bandwidth is shared with trusted AI labs and startups to help them train their models. By opting in, you support the continued availability and improvement of this extension, and you may also be eligible for rewards for your shared bandwidth usage.
+The Mellowtel library included in this extension only shares unused internet bandwidth if you choose to opt in. This bandwidth is shared with trusted AI labs and startups to help them train their models. By opting in, you support the continued availability and improvement of this extension.
 
 ## 3. Data Sharing
 
